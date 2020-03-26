@@ -63,6 +63,3 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.listen(PORT, () => console.log('Server is Listening on port' + PORT));
-
-
-//This is a comment
